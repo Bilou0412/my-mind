@@ -3,13 +3,17 @@ body{
     background-color: azure;
 }
 h1 a.title,
-h1,{
+h1{
     color: rgb(122, 193, 255);
-    text-align: center;
+    
 }
 h1{
     font-family: 'Rubik Glitch', cursive;
     font-size: 5rem;
+    text-align: center;
+}
+h2{
+    text-align: center;
 }
 :any-link {
     text-decoration: none;
